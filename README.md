@@ -1,6 +1,6 @@
 # Finap Practical Test NewsAPI - .Net
 
-This project aims to be a strong foundation for react-native applications. It provides a clear and organized structure and core dependencies.
+This project aims to be a strong foundation for ASP.NET Core Web API . It provides a clear and organized structure and core dependencies.
 
 ## Prerequisites 
 
